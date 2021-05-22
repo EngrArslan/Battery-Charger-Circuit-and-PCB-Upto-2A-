@@ -1,0 +1,2 @@
+# Battery-Charger-Circuit-and-PCB-Upto-2A-
+Mobile phones generally charge with 5v regulated DC supply, so basically we are going to build a 5v regulated DC supply from 220 AC. This DC supply can be used to charge mobiles as well as the power source for digital circuits, breadboard circuits, ICs, microcontrollers etc.  You can also build 6V DC, 9V, 12V, 15V etc by using proper transformer, capacitor and voltage regulator. The basic concept remains the same, you just need to arrange a heat sink for higher voltage and current.
